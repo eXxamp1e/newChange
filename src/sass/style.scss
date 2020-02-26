@@ -1,0 +1,13 @@
+body {
+    background-color: #fff;
+    font-family: 'Montserrat Alternates', sans-serif; 
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    position: relative;
+}
+@import 'blocks/main';
+@import 'blocks/canvas';
+@import 'blocks/home';
